@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Templates/Incident.md",
+                "file": "00-Inbox/2026-11-19 W0 - Setup reminder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incident"
+              "title": "2026-11-19 W0 - Setup reminder"
             }
           }
         ]
@@ -203,10 +203,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b3deae981432103",
+  "active": "643efb04998ee01f",
   "lastOpenFiles": [
-    "00-Inbox/2026-11-19 W0 - Setup reminder.md",
     "99-Templates/Incident.md",
+    "00-Inbox/2026-11-19 W0 - Setup reminder.md",
     "99-Templates/Detection.md",
     "99-Templates/Daily.md",
     "99-Templates/Concept.md",
