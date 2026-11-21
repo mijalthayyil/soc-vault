@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-11-19 W0 - Setup reminder"
             }
+          },
+          {
+            "id": "d9703da4f6d68914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/coffee/Downloads/claude_code_masterclass_detailed_study_guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude_code_masterclass_detailed_study_guide"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +218,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "643efb04998ee01f",
+  "active": "4b3deae981432103",
   "lastOpenFiles": [
+    "file:/home/coffee/Downloads/claude_code_masterclass_detailed_study_guide.md",
     "99-Templates/Incident.md",
     "00-Inbox/2026-11-19 W0 - Setup reminder.md",
     "99-Templates/Detection.md",
