@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "763fb2d48ebd84ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/coffee/Downloads/Database-SQL-Basics_single-file.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database-SQL-Basics_single-file"
+            }
+          },
+          {
             "id": "fd531d622c93ef74",
             "type": "leaf",
             "state": {
@@ -62,23 +76,9 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "00c1765080066781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file:/home/coffee/swing-trading-ai/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,8 +260,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b3deae981432103",
+  "active": "763fb2d48ebd84ac",
   "lastOpenFiles": [
+    "file:/home/coffee/Downloads/Database-SQL-Basics_single-file.md",
     "file:/home/coffee/swing-trading-ai/README.md",
     "file:/home/coffee/Documents/Application/todolist/family-tracker/README.md",
     "00-Inbox/2026-11-23 W1D1 - SOC fundamentals and alert lifecycle.md",
